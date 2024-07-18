@@ -8,9 +8,6 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   3. UT Mart Sales Analytics            
   </pre>
 
-View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
-https://public.tableau.com/profile/utkarsh.yadav6297#!/
-
 
 
 ## Screenshots
